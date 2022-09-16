@@ -9,6 +9,8 @@ Demonstrate training and testing a binary classifier on the example data
 
 * The load_data.py script demos how to load the sample data and visualize images
 
+* First, download our sample data and create a folder for it called `data_samples`
+
 * Sample data includes two datasets
 
     * Each set comprizes a compressed numpy array with image stack and metadata, as well as a separate label csv
